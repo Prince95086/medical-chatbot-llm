@@ -1,4 +1,4 @@
-# Medical Chatbot using Retrieval-Augmented Generation (RAG)
+# Medical Chatbot using Large Language Model. (LLM)
 
 An AI-powered medical Q&A chatbot that answers user queries by retrieving relevant context from a medical reference book and generating grounded responses using GPT-4o. Built with LangChain, Pinecone (vector database), Flask, and HuggingFace sentence embeddings, and containerized with Docker for deployment.
 
