@@ -179,5 +179,5 @@ Required IAM permissions: `AmazonEC2ContainerRegistryFullAccess`, `AmazonEC2Full
 
 ## License
 
-See the [LICENSE](./LICENSE) file for details.
+This project is for educational and demonstration purposes.
 
